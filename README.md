@@ -1,6 +1,8 @@
 # RecipeApp
 
-This project was part of a training course on building a Recipe display to include ingredients, shopping list and other components in order to demonstrate features of Angular 13. 
+This project was part of a training course from Udemy: 'The complete Guide to angular 2' - which has been updated to Angular 13. http://udemy.com/course/the-complete-guide-to-angular2
+
+The code involves building a Recipe app to include ingredients, shopping list and other components in order to demonstrate features of Angular 13. 
 
 1. data binding
 2. creation of components, directives, services
