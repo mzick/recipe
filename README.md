@@ -1,6 +1,23 @@
 # RecipeApp
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.0.0.
+This project was part of a training course on building a Recipe display to include ingredients, shopping list and other components in order to demonstrate features of Angular 13. 
+
+1. data binding
+2. creation of components, directives, services
+3. directives
+4. 2 way binding
+
+This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.0.0.
+
+## Set up notes
+
+Don't download the NodeJS version 17 - it doesn't work with angular.
+
+Use LTS version of Node from https://nodejs.org/en/download
+
+I ran `npm i -g @angular/cli@13.0.4` and created a new project with `ng new`
+
+For the UX, bootstrap3 was used - `npm install --save bootstrap3`
 
 ## Development server
 
